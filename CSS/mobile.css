@@ -1,0 +1,44 @@
+* {
+  font-size: 15px;
+}
+body {
+  background-color: hsl(229, 6%, 97%);
+}
+.top {
+  margin: 20px;
+}
+h1 {
+  font-size: 22px;
+}
+.w1 {
+  font-weight: 200;
+}
+.w2, h3 {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+.small {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+  border: 1px solid;
+  margin: 20px;
+  background-color: hsl(0, 0%, 98%);
+  border-radius: 5px;
+  
+}
+.small img {
+  align-self: flex-end;
+}
+.small1 {
+  box-shadow: 0 -3px 0 0 hsl(180, 62%, 55%);
+}
+.small2 {
+  box-shadow: 0 -3px 0 0 hsl(0, 78%, 62%);
+}
+.small3 {
+  box-shadow: 0 -3px 0 0 hsl(34, 97%, 64%);
+}
+.small4 {
+  box-shadow: 0 -3px 0 0 hsl(212, 86%, 64%);
+}
